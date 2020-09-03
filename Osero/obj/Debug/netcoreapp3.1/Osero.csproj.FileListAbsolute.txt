@@ -1,0 +1,13 @@
+C:\Users\snishihata\source\repos\Osero\Osero\bin\Debug\netcoreapp3.1\Osero.exe
+C:\Users\snishihata\source\repos\Osero\Osero\bin\Debug\netcoreapp3.1\Osero.deps.json
+C:\Users\snishihata\source\repos\Osero\Osero\bin\Debug\netcoreapp3.1\Osero.runtimeconfig.json
+C:\Users\snishihata\source\repos\Osero\Osero\bin\Debug\netcoreapp3.1\Osero.runtimeconfig.dev.json
+C:\Users\snishihata\source\repos\Osero\Osero\bin\Debug\netcoreapp3.1\Osero.dll
+C:\Users\snishihata\source\repos\Osero\Osero\bin\Debug\netcoreapp3.1\Osero.pdb
+C:\Users\snishihata\source\repos\Osero\Osero\obj\Debug\netcoreapp3.1\Osero.csprojAssemblyReference.cache
+C:\Users\snishihata\source\repos\Osero\Osero\obj\Debug\netcoreapp3.1\Osero.AssemblyInfoInputs.cache
+C:\Users\snishihata\source\repos\Osero\Osero\obj\Debug\netcoreapp3.1\Osero.AssemblyInfo.cs
+C:\Users\snishihata\source\repos\Osero\Osero\obj\Debug\netcoreapp3.1\Osero.csproj.CoreCompileInputs.cache
+C:\Users\snishihata\source\repos\Osero\Osero\obj\Debug\netcoreapp3.1\Osero.dll
+C:\Users\snishihata\source\repos\Osero\Osero\obj\Debug\netcoreapp3.1\Osero.pdb
+C:\Users\snishihata\source\repos\Osero\Osero\obj\Debug\netcoreapp3.1\Osero.genruntimeconfig.cache

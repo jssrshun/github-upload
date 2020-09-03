@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Osero", "Osero\Osero.csproj", "{068D65E0-1CAF-4A48-B11D-B9A9B1CC522C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{068D65E0-1CAF-4A48-B11D-B9A9B1CC522C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068D65E0-1CAF-4A48-B11D-B9A9B1CC522C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068D65E0-1CAF-4A48-B11D-B9A9B1CC522C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068D65E0-1CAF-4A48-B11D-B9A9B1CC522C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {432141D4-89D6-48F4-8E55-FC799C6E0773}
+	EndGlobalSection
+EndGlobal
